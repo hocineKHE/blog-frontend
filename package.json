@@ -43,6 +43,7 @@
     "ngx-webstorage": "^2.0.1",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
-    "typescript": "~3.8.3"
+    "typescript": "~3.8.3",
+    "@tinymce/tinymce-angular": "^2.4.1"
   }
 }
